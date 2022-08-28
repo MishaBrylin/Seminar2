@@ -7,7 +7,7 @@ int Pack(int a)
 }
 int a = Convert.ToInt32(Console.ReadLine());
 int res = Pack(a);
-WriteLine($"вотророе цифра числа {a} цифра {res}");
+Console.WriteLine($"вотророе цифра числа {a} цифра {res}");
 
 //Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
